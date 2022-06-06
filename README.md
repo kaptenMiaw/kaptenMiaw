@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kaptenMiaw
-- 👀 I’m interested in mobile apps developer
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on apa aja lol
+- 👀 I’m interested in mobile & web development
+- 🌱 I’m currently learning flutter & web front-end
+- 💞️ I’m looking to collaborate on small project
 - 📫 How to reach me, give me your money
 
 <!---
